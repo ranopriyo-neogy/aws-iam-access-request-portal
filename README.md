@@ -13,9 +13,7 @@ Using this application user can request for both `Terminal` and `Console` access
 
 ## Authentication
 
-The application is integrated with Cognito and Okta for Authnetication.
-
-![](images/okta.png)
+The application is integrated with AWS Cognito and Okta for Authnetication.
 
 ## Implementation 
 
