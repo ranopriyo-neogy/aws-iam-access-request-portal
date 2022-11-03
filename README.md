@@ -363,8 +363,8 @@ There is a separate lambda function `elevated-access-create-user` and an event b
 
 ## References
 
-[AWS Amplify](https://docs.amplify.aws/start/getting-started/installation/q/integration/react/)
-[Boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/quickstart.html)
+- [AWS Amplify](https://docs.amplify.aws/start/getting-started/installation/q/integration/react/)
+- [Boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/quickstart.html)
 
 ## Developer
 
