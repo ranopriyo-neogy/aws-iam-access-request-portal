@@ -50,7 +50,7 @@ The application is integrated with AWS Cognito and Okta for Authnetication.
 
 ## Resources 
 
-The project is build in Test Organization Account - #534669164359 and below are the resources used and deployed using AWS Amplify. 
+The project is build in AWS Organization Main Account and below are the resources used and deployed using AWS Amplify. 
 ```
 ┌──────────┬──────────────────────────────────┬───────────┬───────────────────┐
 │ Category │ Resource name                    │ Operation │ Provider plugin   │
