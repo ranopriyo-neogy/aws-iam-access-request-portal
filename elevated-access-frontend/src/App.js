@@ -10,7 +10,7 @@ import { DateTimePickerComponent } from '@syncfusion/ej2-react-calendars';
 import moment from "moment";
 import axios from 'axios';
 import { Typeahead } from 'react-bootstrap-typeahead';
-import ui-logo from './ui-logo.png';
+import uilogo from './ui-logo.png';
 import {
   AmplifyOauthButton,
   AmplifyAuthenticator
@@ -119,7 +119,7 @@ useEffect(()=>{
     <AmplifyAuthenticator >
     <AmplifyOauthButton slot="sign-in" />
     <div style={{  display: "block", width: 1000, padding: 100 }}>
-    <img src={ui-logo} width={160} height={120} alt='Temporary Access Privilege'/>
+    <img src={uilogo} width={160} height={120} alt='Temporary Access Privilege'/>
     <link href="//netdna.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet"/>
     <h1 align="right"> <span class="label label-primary label-sm">Temporary Access Privilege</span></h1>
     &nbsp; 
